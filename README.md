@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/huiqiangdev">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiqiangdev&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+</a>
 
 
 ### Hi 👋
@@ -20,9 +23,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `TypeScript`
 - 🎮 I'm currently playing *Glory of Kings*
 - 📫 How to reach me: huiqiangdev@icloud.com
-<a href="https://github.com/huiqiangdev">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=huiqiangdev&show_icons=true&theme=light&line_height=27" alt="Huiqiangdev's GitHub Stats"/>
-</a>
-<a href="https://github.com/huiqiangdev">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiqiangdev&theme=light&hide_langs_below=1" alt="Top Language"/>
-</a>
+
